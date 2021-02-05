@@ -1,0 +1,1 @@
+./miniZ --url=GdkQGJmbdvx2UBRhomUAXwdUbKJySXzubo.worker@eu.btgpool.pro:3857
